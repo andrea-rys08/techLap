@@ -1,1 +1,58 @@
-{}
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Laptop Gamer ASUS",
+      "precio": "1200.00",
+      "imagen": "https://via.placeholder.com/300x200?text=Laptop+ASUS",
+      "marca": "ASUS",
+      "oferta": 1,
+      "categoria": "Gaming"
+    },
+    {
+      "id": 2,
+      "nombre": "Audífonos JBL",
+      "precio": "75.00",
+      "imagen": "https://via.placeholder.com/300x200?text=Audifonos+JBL",
+      "marca": "JBL",
+      "oferta": 0,
+      "categoria": "Audio"
+    },
+    {
+      "id": 3,
+      "nombre": "Mouse RGB",
+      "precio": "25.00",
+      "imagen": "https://via.placeholder.com/300x200?text=Mouse+RGB",
+      "marca": "Logitech",
+      "oferta": 0,
+      "categoria": "Accesorios"
+    },
+    {
+      "id": 4,
+      "nombre": "iMac 27 pulgadas",
+      "precio": "1500.00",
+      "imagen": "https://via.placeholder.com/300x200?text=iMac",
+      "marca": "Apple",
+      "oferta": 1,
+      "categoria": "Laptop"
+    },
+    {
+      "id": 5,
+      "nombre": "HP Victus 16",
+      "precio": "2500.00",
+      "imagen": "https://via.placeholder.com/300x200?text=HP+Victus",
+      "marca": "HP",
+      "oferta": 0,
+      "categoria": "Gaming"
+    },
+    {
+      "id": 6,
+      "nombre": "Teclado Gamer",
+      "precio": "75.00",
+      "imagen": "https://via.placeholder.com/300x200?text=Teclado+Gamer",
+      "marca": "Spectra",
+      "oferta": 1,
+      "categoria": "Gaming"
+    }
+  ]
+}
